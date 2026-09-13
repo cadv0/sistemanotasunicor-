@@ -1,5 +1,5 @@
 //App.vue - Camilo Andrés De la cruz 
-//Repositorio: 
+//Repositorio: https://github.com/cadv0/sistemanotasunicor-.git
 
 
 
